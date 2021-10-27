@@ -1,0 +1,16 @@
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\bin\Debug\netstandard2.0\CrudUsingXamarin.deps.json
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\bin\Debug\netstandard2.0\CrudUsingXamarin.dll
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\bin\Debug\netstandard2.0\ref\CrudUsingXamarin.dll
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\bin\Debug\netstandard2.0\CrudUsingXamarin.pdb
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\CrudUsingXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\CrudUsingXamarin.AssemblyInfoInputs.cache
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\CrudUsingXamarin.AssemblyInfo.cs
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\CrudUsingXamarin.csproj.CoreCompileInputs.cache
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\CrudUsingXamarin.dll
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\ref\CrudUsingXamarin.dll
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\CrudUsingXamarin.pdb
+C:\Users\91863\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\CrudUsingXamarin.csproj.AssemblyReference.cache
